@@ -1,0 +1,30 @@
+{
+  "serverName": "FROST MC Server",
+  "serverIp": "frost1mc.aternos.me",
+  "serverPort": 25565,
+  "discord": "https://discord.gg/uvj6yPtJHp",
+  "heroImage": "https://example.com/frost-hero.jpg",
+  "defaultVersion": "1.20.1",
+  "versions": ["1.21.4", "1.21.1", "1.20.4", "1.20.1", "1.19.4", "1.18.2", "1.16.5", "1.13.2", "1.12.2", "1.8.9"],
+  "news": [
+    {
+      "tag": "UPDATE",
+      "title": "Season 2 is Coming!",
+      "desc": "New features, new locations and more opportunities.",
+      "date": "Nov 17, 2026",
+      "icon": "snow",
+      "url": "https://discord.gg/uvj6yPtJHp"
+    },
+    {
+      "tag": "EVENT",
+      "title": "Mega Event - This Weekend!",
+      "desc": "Join our special event and win exclusive rewards!",
+      "date": "Nov 14, 2026",
+      "icon": "trophy"
+    }
+  ],
+  "readyMods": [
+    { "slug": "fabric-api", "title": "Fabric API", "desc": "Required by most mods" },
+    { "slug": "sodium", "title": "Sodium", "desc": "Big FPS boost" }
+  ]
+}
