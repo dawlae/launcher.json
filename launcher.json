@@ -4,7 +4,7 @@
   "serverPort": 25565,
   "discord": "https://discord.gg/uvj6yPtJHp",
   "heroImage": "https://raw.githubusercontent.com/dawlae/launcher.json/main/heroImage.png",
-  "defaultVersion": "1.20.1",
+"defaultVersion": "1.20.1",
   "versions": ["1.21.4", "1.21.1", "1.20.4", "1.20.1", "1.19.4", "1.18.2", "1.16.5", "1.13.2", "1.12.2", "1.8.9"],
   "news": [
     {
